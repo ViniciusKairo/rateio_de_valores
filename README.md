@@ -159,12 +159,6 @@ SistemaRateio/
 
 # Instalação
 
-## Clone o projeto:
-
-``` bash
-git clone https://github.com/seuusuario/seurepositorio.git
-```
-
 ## Instale as dependências:
 
 ``` bash
@@ -270,7 +264,7 @@ O relatório exportado contém:
 # Autor
 
 **Vinícius Kairo**\
-Desenvolvedor em transição para Engenharia de Software\
+Engenheiro de Software\
 Foco em automação, análise de dados e soluções empresariais
 
 ------------------------------------------------------------------------
